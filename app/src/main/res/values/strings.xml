@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hm_6_3</string>
+    <string name="send">send</string>
+    <string name="message">message</string>
+    <string name="aaa">AAA</string>
+    <string name="hint">hint</string>
+</resources>
